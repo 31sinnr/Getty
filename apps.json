@@ -13,6 +13,7 @@
     { "id": "RARLabs.WinRAR", "name": "WinRAR" }
   ],
   "launchers": [
-    { "id": "Valve.Steam", "name": "Steam" }
+    { "id": "Valve.Steam", "name": "Steam" },
+    { "id": "EpicGames.EpicGamesLauncher", "name": "Epic Games" }
   ]
 }
