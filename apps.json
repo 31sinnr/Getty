@@ -1,6 +1,7 @@
 {
   "browsers": [
     { "id": "TheBrowserCompany.Arc", "name": "Arc Browser" },
+    { "id": "Brave.Brave", "name": "Brave"}
     { "id": "Google.Chrome", "name": "Google Chrome" },
     { "id": "Mozilla.Firefox", "name": "Mozilla Firefox" },
     { "id": "Opera.Opera", "name": "Opera Browser" },
