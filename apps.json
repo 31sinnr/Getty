@@ -3,6 +3,7 @@
     { "id": "TheBrowserCompany.Arc", "name": "Arc Browser" },
     { "id": "Google.Chrome", "name": "Google Chrome" },
     { "id": "Mozilla.Firefox", "name": "Mozilla Firefox" },
+    { "id": "Opera.Opera", "name": "Opera Browser" },
     { "id": "TorProject.TorBrowser", "name": "Tor Browser" },
     { "id": "Yandex.Browser", "name": "Yandex Browser" }
   ],
