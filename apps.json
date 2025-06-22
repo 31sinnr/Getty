@@ -8,13 +8,16 @@
     { "id": "TorProject.TorBrowser", "name": "Tor Browser" },
     { "id": "Yandex.Browser", "name": "Yandex Browser" }
   ],
+  "launchers": [
+    { "id": "Valve.Steam", "name": "Steam" },
+    { "id": "EpicGames.EpicGamesLauncher", "name": "Epic Games" }
+  ],
   "tools": [
     { "id": "7zip.7zip", "name": "7-Zip" },
     { "id": "Notepad++.Notepad++", "name": "Notepad++" },
     { "id": "RARLabs.WinRAR", "name": "WinRAR" }
   ],
-  "launchers": [
-    { "id": "Valve.Steam", "name": "Steam" },
-    { "id": "EpicGames.EpicGamesLauncher", "name": "Epic Games" }
+  "packages": [
+    { "id": "Git.Git", "name": "Git" }
   ]
 }
